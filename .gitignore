@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+*.pyc
+*.class
+*.lock
+*/*.DS_Store
+.DS_Store?
